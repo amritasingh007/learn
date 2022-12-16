@@ -1,0 +1,8 @@
+<html>
+<head> 
+<title>THANK YOU</title>
+</head>
+<body>
+<h1>THANKS FOR ODERING WITH US</h1>
+</body>
+</html> 
